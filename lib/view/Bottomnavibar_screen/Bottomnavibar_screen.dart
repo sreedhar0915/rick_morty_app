@@ -36,7 +36,7 @@ class _BottomnavibarScreenState extends State<BottomnavibarScreen> {
         });
       },
       selectedItemColor: ColorConstants.Maincolor,
-      unselectedItemColor: ColorConstants.grey,
+      unselectedItemColor: ColorConstants.white,
       type: BottomNavigationBarType.fixed,
       items: [
         BottomNavigationBarItem(
